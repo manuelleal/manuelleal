@@ -4,7 +4,7 @@
 
 I'm Christiam Puentes Leal, an English teacher and PhD student in Education. I design how people learn, and I build the tools myself: a placement exam, a daily practice app and a live classroom quiz that are online and used in real classes, and an offline AI tutor that runs on a 2014 school laptop.
 
-**Open to work:** learning design, language assessment and AI in education, as a role or by project. → [engramaingles.com](https://engramaingles.com/)
+**Open to work:** learning design, language assessment and AI in education, as a role or by project. → [engramaingles.com/lab](https://engramaingles.com/lab/)
 
 ## What I bring
 
@@ -36,8 +36,8 @@ To narrow the gap in language learning in places with no good connection and no 
 
 ## Contact
 
-[contacto@engramaingles.com](mailto:contacto@engramaingles.com) · [engramaingles.com](https://engramaingles.com/)
+[contacto@engramaingles.com](mailto:contacto@engramaingles.com) · [engramaingles.com/lab](https://engramaingles.com/lab/)
 
 ---
 
-**En español.** Engrama Lab es un laboratorio de inglés e IA para aprender idiomas. Soy Christiam Puentes Leal, docente de inglés y estudiante de doctorado en educación. Diseño cómo se aprende y construyo yo mismo las herramientas: SET, Engrama y EVA están en línea, y Grader está en desarrollo. Investigo cómo la IA puede ayudar a aprender idiomas donde no hay buena conexión ni equipos nuevos (Echo y Juaco). Disponible para trabajo en diseño de aprendizaje, evaluación de idiomas e IA en educación. Contacto: [contacto@engramaingles.com](mailto:contacto@engramaingles.com).
+**En español.** Engrama Lab es un laboratorio de inglés e IA para aprender idiomas. Soy Christiam Puentes Leal, docente de inglés y estudiante de doctorado en educación. Diseño cómo se aprende y construyo yo mismo las herramientas: SET, Engrama y EVA están en línea, y Grader está en desarrollo. Investigo cómo la IA puede ayudar a aprender idiomas donde no hay buena conexión ni equipos nuevos (Echo y Juaco). Disponible para trabajo en diseño de aprendizaje, evaluación de idiomas e IA en educación. Contacto: [contacto@engramaingles.com](mailto:contacto@engramaingles.com) · [engramaingles.com/lab](https://engramaingles.com/lab/).
