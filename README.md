@@ -36,8 +36,8 @@ To narrow the gap in language learning in places with no good connection and no 
 
 ## Contact
 
-[engramaingles.com](https://engramaingles.com/)
+[contacto@engramaingles.com](mailto:contacto@engramaingles.com) · [engramaingles.com](https://engramaingles.com/)
 
 ---
 
-**En español.** Engrama Lab es un laboratorio de inglés e IA para aprender idiomas. Soy Christiam Puentes Leal, docente de inglés y estudiante de doctorado en educación. Diseño cómo se aprende y construyo yo mismo las herramientas: SET, Engrama y EVA están en línea, y Grader está en desarrollo. Investigo cómo la IA puede ayudar a aprender idiomas donde no hay buena conexión ni equipos nuevos (Echo y Juaco). Disponible para trabajo en diseño de aprendizaje, evaluación de idiomas e IA en educación. Contacto: [engramaingles.com](https://engramaingles.com/).
+**En español.** Engrama Lab es un laboratorio de inglés e IA para aprender idiomas. Soy Christiam Puentes Leal, docente de inglés y estudiante de doctorado en educación. Diseño cómo se aprende y construyo yo mismo las herramientas: SET, Engrama y EVA están en línea, y Grader está en desarrollo. Investigo cómo la IA puede ayudar a aprender idiomas donde no hay buena conexión ni equipos nuevos (Echo y Juaco). Disponible para trabajo en diseño de aprendizaje, evaluación de idiomas e IA en educación. Contacto: [contacto@engramaingles.com](mailto:contacto@engramaingles.com).
