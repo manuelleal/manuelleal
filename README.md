@@ -2,7 +2,16 @@
 
 **An English and AI lab for language learning.**
 
-I'm Christiam Puentes, an English teacher and PhD student in Education. I build tools for English classes, and I study how AI can help people learn languages where the connection is poor and the computers are old.
+I'm Christiam Puentes Leal, an English teacher and PhD student in Education. I design how people learn, and I build the tools myself: a placement exam, a daily practice app and a live classroom quiz that are online and used in real classes, and an offline AI tutor that runs on a 2014 school laptop.
+
+**Open to work:** learning design, language assessment and AI in education, as a role or by project. → [engramaingles.com](https://engramaingles.com/)
+
+## What I bring
+
+- **I ship working products.** Three tools are online today, built end to end by directing AI coding agents under a written protocol with tests and audits.
+- **I design assessment, not only software.** SET draws each student's exam from a bank of about 1,800 questions aligned to the CEFR.
+- **I measure before I claim.** My research is preregistered and blind-tested, and I publish negative results.
+- **I train teachers.** I facilitated a virtual module for 21 rural English teachers from 8 schools ([CILE](https://github.com/manuelleal/CILE)).
 
 ## Tools
 
@@ -31,4 +40,4 @@ To narrow the gap in language learning in places with no good connection and no 
 
 ---
 
-**En español.** Engrama Lab es un laboratorio de inglés e IA para aprender idiomas. Soy Christiam Puentes, docente de inglés y estudiante de doctorado en educación. He construido herramientas para la clase de inglés (SET, Engrama y EVA; Grader está en desarrollo) e investigo cómo la IA puede ayudar a aprender idiomas donde no hay buena conexión ni equipos nuevos (Echo y Juaco). Contacto: [engramaingles.com](https://engramaingles.com/).
+**En español.** Engrama Lab es un laboratorio de inglés e IA para aprender idiomas. Soy Christiam Puentes Leal, docente de inglés y estudiante de doctorado en educación. Diseño cómo se aprende y construyo yo mismo las herramientas: SET, Engrama y EVA están en línea, y Grader está en desarrollo. Investigo cómo la IA puede ayudar a aprender idiomas donde no hay buena conexión ni equipos nuevos (Echo y Juaco). Disponible para trabajo en diseño de aprendizaje, evaluación de idiomas e IA en educación. Contacto: [engramaingles.com](https://engramaingles.com/).
